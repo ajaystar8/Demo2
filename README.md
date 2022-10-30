@@ -5,3 +5,5 @@ Some Text
 Hello World
 
 Hello GitHub
+
+Hello now
